@@ -1,1 +1,4 @@
-*.py linguist-detectable=true
+*.py   linguist-detectable=true
+1.1    linguist-language=Python
+GUI    linguist-language=Python
+代码   linguist-language=Python
